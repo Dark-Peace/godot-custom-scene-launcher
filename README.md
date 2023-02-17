@@ -2,7 +2,7 @@
 
 Add a button to run any custom scene, next to the buttons to run the current and main scene. Original plugin for Godot 3 by Xananax.
 
-![a view of the plugin, showing the path and the different buttons](example.png)
+![a view of the plugin, showing the path and the different buttons](https://gitlab.com/godot-addons/custom-scene-launcher/-/raw/main/example.png)
 
 1. Path of the scene that will run
 2. File browser to set a specific scene
